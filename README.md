@@ -45,3 +45,4 @@ The pseudo code for the Q learning algorithm is depicted below, the code is full
 6.	Make the initial state as the new state and loop for ‘N’ desired episodes
 Choose the parameters for the algorithm appropriately so that, the agent tries to converge as fast as possible in the most optimal path.
 
+![](Screenshot(89).png)
